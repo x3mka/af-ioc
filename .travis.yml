@@ -1,11 +1,6 @@
 rvm:
   - 2.0.0
   - 2.1.1
-env:
-  - CODECLIMATE_REPO_TOKEN=62dff6f687ba380236d074daff8a1c3e7b0de54a2041ae1e42a18a8c39aeb593
-addons:
-  code_climate:
-    repo_token: 62dff6f687ba380236d074daff8a1c3e7b0de54a2041ae1e42a18a8c39aeb593
 notifications:
   recipients:
     - bdimonik@gmail.com
