@@ -1,4 +1,4 @@
-# Af::Ioc
+## Encase [![Build Status][1]][2] [![Code Climate][3]][4] [![Dependency Status][5]][6]
 
 TODO: Write a gem description
 
