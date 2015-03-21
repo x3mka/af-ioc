@@ -1,4 +1,4 @@
-## Af IoC [![Build Status][1]][2] [![Code Climate][3]][4] [![Dependency Status][5]][6]
+## Af IoC [![Build Status][1]][2] [![Code Climate][3]][4] [![Test Coverage][5]][6] [![Dependency Status][7]][8]
 
 TODO: Write a gem description
 
@@ -35,5 +35,7 @@ TODO: Write usage instructions here
 [2]: https://travis-ci.org/x3mka/af-ioc
 [3]: https://codeclimate.com/github/x3mka/af-ioc/badges/gpa.svg
 [4]: https://codeclimate.com/github/x3mka/af-ioc
-[5]: https://gemnasium.com/x3mka/af-ioc.png
-[6]: https://gemnasium.com/x3mka/af-ioc
+[5]: https://codeclimate.com/github/x3mka/af-ioc/badges/coverage.svg
+[6]: https://codeclimate.com/github/x3mka/af-ioc
+[7]: https://gemnasium.com/x3mka/af-ioc.png
+[8]: https://gemnasium.com/x3mka/af-ioc
