@@ -1,4 +1,4 @@
-## Encase [![Build Status][1]][2] [![Code Climate][3]][4] [![Dependency Status][5]][6]
+## Af IoC [![Build Status](https://travis-ci.org/x3mka/af-ioc.svg?branch=master)](https://travis-ci.org/x3mka/af-ioc) [![Code Climate](https://codeclimate.com/github/x3mka/af-ioc/badges/gpa.svg)](https://codeclimate.com/github/x3mka/af-ioc)
 
 TODO: Write a gem description
 
