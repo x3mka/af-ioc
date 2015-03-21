@@ -1,4 +1,4 @@
-## Af IoC [![Build Status](https://travis-ci.org/x3mka/af-ioc.svg?branch=master)](https://travis-ci.org/x3mka/af-ioc) [![Code Climate](https://codeclimate.com/github/x3mka/af-ioc/badges/gpa.svg)](https://codeclimate.com/github/x3mka/af-ioc)
+## Af IoC [![Build Status][1]][2] [![Code Climate][3]][4] [![Dependency Status][5]][6]
 
 TODO: Write a gem description
 
@@ -29,3 +29,11 @@ TODO: Write usage instructions here
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create a new Pull Request
+
+
+[1]: https://travis-ci.org/x3mka/af-ioc.svg?branch=master
+[2]: https://travis-ci.org/x3mka/af-ioc
+[3]: https://codeclimate.com/github/x3mka/af-ioc/badges/gpa.svg
+[4]: https://codeclimate.com/github/x3mka/af-ioc
+[5]: https://gemnasium.com/x3mka/af-ioc.png
+[6]: https://gemnasium.com/x3mka/af-ioc
