@@ -1,4 +1,4 @@
-## Af IoC [![Build Status][1]][2] [![Code Climate][3]][4] [![Test Coverage][5]][6] [![Dependency Status][7]][8]
+## Af IoC [![GitHub version][9]][10] [![Build Status][1]][2] [![Code Climate][3]][4] [![Test Coverage][5]][6] [![Dependency Status][7]][8]
 
 TODO: Write a gem description
 
@@ -39,3 +39,5 @@ TODO: Write usage instructions here
 [6]: https://codeclimate.com/github/x3mka/af-ioc
 [7]: https://gemnasium.com/x3mka/af-ioc.png
 [8]: https://gemnasium.com/x3mka/af-ioc
+[9]: https://badge.fury.io/gh/x3mka%2Faf-ioc.svg
+[10]: http://badge.fury.io/gh/x3mka%2Faf-ioc
